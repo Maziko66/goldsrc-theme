@@ -2,7 +2,7 @@
   "name": "goldsrc-theme",
   "displayName": "GoldSrc Theme",
   "description": "Theme inspired by GoldSrc UI and older version of Steam.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.0.0"
   },
