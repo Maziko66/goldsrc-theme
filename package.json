@@ -1,0 +1,44 @@
+{
+  "name": "goldsrc-theme",
+  "displayName": "GoldSrc Theme",
+  "description": "Theme inspired by GoldSrc UI and older version of Steam.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "publisher": "MazharM",
+  "author":{
+    "name": "Mazhar M."
+  },
+  "license": "MIT",
+  "homepage": "https://www.tiberianproject.com/",
+  "keywords": [
+  "goldsrc",
+  "source",
+  "source engine",
+  "goldsrc engine",
+  "valve",
+  "theme",
+  "steam",
+  "steam theme",
+  "half-life",
+  "halflife",
+  "half life",
+  "portal",
+  "half life source",
+  "old steam"
+  ],
+  "icon": "lambda_icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GoldSrc Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GoldSrc Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
