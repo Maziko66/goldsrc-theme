@@ -2,7 +2,7 @@
   "name": "goldsrc-theme",
   "displayName": "GoldSrc Theme",
   "description": "Theme inspired by GoldSrc UI and older version of Steam.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -10,6 +10,9 @@
   "author":{
     "name": "Mazhar M."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maziko66/goldsrc-theme"},
   "license": "MIT",
   "homepage": "https://www.tiberianproject.com/",
   "keywords": [
